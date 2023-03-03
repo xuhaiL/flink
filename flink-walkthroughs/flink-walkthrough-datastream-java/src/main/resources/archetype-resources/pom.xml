@@ -39,7 +39,7 @@ under the License.
 	</properties>
 
 	<repositories>
-		<repository>
+		<!--<repository>
 			<id>apache.snapshots</id>
 			<name>Apache Development Snapshot Repository</name>
 			<url>https://repository.apache.org/content/repositories/snapshots/</url>
@@ -49,7 +49,7 @@ under the License.
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
-		</repository>
+		</repository>-->
 	</repositories>
 
 	<dependencies>
